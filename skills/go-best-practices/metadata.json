@@ -1,0 +1,11 @@
+﻿{
+  "version": "0.1.0",
+  "organization": "LLMux Skills Community",
+  "date": "January 2026",
+  "abstract": "Go language best practices and project layout guidance. Use for drafting and reviewing Go codebases with a focus on clarity, correctness, and maintainability.",
+  "references": [
+    "https://go.dev/doc/",
+    "https://go.dev/doc/effective_go",
+    "https://pkg.go.dev/"
+  ]
+}
