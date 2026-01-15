@@ -25,7 +25,9 @@ Use the collaboration and engineering standards in `references/handbook.md` to p
 - Technical specs (API/DB/logging): Section 4
 - Code review checklist: Section 5
 - Tooling recommendations: Section 6
+- AI role/system prompt charter: `references/ai-role-charter.md`
 
 ## Resources
 
 - `references/handbook.md`: The full collaboration and development standards (v1.0).
+- `references/ai-role-charter.md`: AI role/system prompt charter and required workflow.
