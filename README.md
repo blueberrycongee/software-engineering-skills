@@ -1,12 +1,29 @@
-﻿# Software Engineering Skills
+# Software Engineering Skills
+
+[English](README.md) | [中文](README.zh-CN.md)
 
 A community-driven collection of Codex skills for software engineering work.
+
+## What this repo is
+
+- A curated set of reusable skills for coding standards, team collaboration, and language best practices.
+- A community hub for sharing and improving skills with clear contribution rules.
 
 ## Included skills
 
 - `rust-best-practices`
 - `go-best-practices`
 - `se-collab-standards`
+
+## Quick start
+
+1. Clone this repo.
+2. Copy one or more skill folders into your Codex skills directory.
+
+Example paths:
+
+- Windows: `C:\Users\<you>\.codex\skills`
+- Custom: `$CODEX_HOME\skills`
 
 ## Directory layout
 
@@ -17,19 +34,9 @@ skills/
   se-collab-standards/
 ```
 
-## Quick start
-
-1. Clone this repo.
-2. Copy one or more skills into your Codex skills directory.
-
-Example paths:
-
-- Windows: `C:\Users\<you>\.codex\skills`
-- Custom: `$CODEX_HOME\skills`
-
 ## Contributing
 
-See `CONTRIBUTING.md` for guidelines.
+Read `CONTRIBUTING.md` for naming rules and quality checks.
 
 ## Code of Conduct
 
