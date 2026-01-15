@@ -14,6 +14,9 @@
 - `rust-best-practices`
 - `go-best-practices`
 - `se-collab-standards`
+- `react-best-practices`
+- `web-design-guidelines`
+- `vercel-deploy-claimable`
 
 ## 快速开始
 
@@ -32,7 +35,18 @@ skills/
   rust-best-practices/
   go-best-practices/
   se-collab-standards/
+  react-best-practices/
+  web-design-guidelines/
+  vercel-deploy-claimable/
 ```
+
+## 来源与致谢
+
+本仓库部分技能参考自 [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)，包括：
+
+- `react-best-practices`
+- `web-design-guidelines`
+- `vercel-deploy-claimable`
 
 ## 参与贡献
 

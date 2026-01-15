@@ -14,6 +14,9 @@ A community-driven collection of Codex skills for software engineering work.
 - `rust-best-practices`
 - `go-best-practices`
 - `se-collab-standards`
+- `react-best-practices`
+- `web-design-guidelines`
+- `vercel-deploy-claimable`
 
 ## Quick start
 
@@ -32,7 +35,18 @@ skills/
   rust-best-practices/
   go-best-practices/
   se-collab-standards/
+  react-best-practices/
+  web-design-guidelines/
+  vercel-deploy-claimable/
 ```
+
+## Attribution
+
+Portions of this collection are adapted from [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills), including:
+
+- `react-best-practices`
+- `web-design-guidelines`
+- `vercel-deploy-claimable`
 
 ## Contributing
 
