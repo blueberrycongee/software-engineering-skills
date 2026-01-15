@@ -1,4 +1,4 @@
-﻿---
+---
 name: go-best-practices
 description: Go language development best practices and project layout standard; use when drafting or reviewing Go projects, code style, error handling, concurrency, performance, or tooling setup.
 ---
